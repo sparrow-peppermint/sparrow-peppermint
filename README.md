@@ -17,10 +17,8 @@ I'm Sparrow, a full stack software developer and musician with a passion for the
 <a><br></a>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=sparrow-peppermint&rank_icon=github&hide=stars&line_height=24&theme=merko"/></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparrow-peppermint&layout=compact&theme=merko"/></a>
+<div align="center"> <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sparrow-peppermint&rank_icon=github&hide=stars&line_height=24&theme=merko"/></a> <a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sparrow-peppermint&layout=compact&theme=merko"></a> </div>
 
 <a><br></a>
 
