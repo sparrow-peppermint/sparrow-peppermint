@@ -1,6 +1,6 @@
 ## Kia ora, Welcome 🌻
 
-I'm Sparrow, a full stack software developer and musician with a passion for the future, inovation, community, and reality tv ✨ 
+I'm Sparrow, a full stack software developer and musician with a passion for the future, innovation, community, and reality tv ✨ 
 
 #### A little about me:
 
